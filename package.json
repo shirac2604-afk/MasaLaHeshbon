@@ -1,0 +1,35 @@
+{
+  "name": "masa-la-heshbon",
+  "version": "1.2.2",
+  "private": true,
+  "description": "מסע לחשבון - משחק לימודי להכנה לכיתה א׳ ולתרגול חשבון בסיסי",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run qa && tsc && vite build",
+    "preview": "vite preview",
+    "desktop": "npm run build && electron .",
+    "dist:win": "npm run build && electron-builder --win nsis",
+    "validate:content": "node scripts/validate-content.mjs",
+    "check": "npm run validate:content && tsc --noEmit",
+    "validate:release": "node scripts/validate-release.mjs",
+    "qa": "npm run validate:content && npm run validate:release && npm run validate:final",
+    "validate:alpha": "node scripts/validate-alpha.mjs",
+    "validate:beta": "node scripts/validate-beta.mjs",
+    "validate:rc": "node scripts/validate-rc.mjs",
+    "validate:final": "node scripts/validate-final.mjs",
+    "release:check": "npm run qa && tsc --noEmit && vite build"
+  },
+  "dependencies": {"phaser": "^3.90.0"},
+  "devDependencies": {"@types/node": "^24.0.0", "electron": "^37.2.3", "electron-builder": "^26.0.12", "typescript": "^5.8.3", "vite": "^7.0.4"},
+  "build": {
+    "appId": "il.co.maftehot.masa-la-heshbon",
+    "productName": "מסע לחשבון",
+    "directories": {"output": "release", "buildResources": "build"},
+    "files": ["dist/**/*", "electron/**/*", "package.json"],
+    "win": {"target": ["nsis"], "icon": "build/icon.ico", "artifactName": "MasaLaHeshbon-Setup-${version}.${ext}"},
+    "nsis": {"oneClick": false, "allowToChangeInstallationDirectory": true, "createDesktopShortcut": true, "createStartMenuShortcut": true, "shortcutName": "מסע לחשבון"}
+  },
+  "author": "מפתחות להצלחה"
+}
