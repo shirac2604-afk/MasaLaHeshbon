@@ -1,0 +1,2153 @@
+{
+  "schemaVersion": 1,
+  "boardId": "math-city",
+  "version": "0.4.0",
+  "groups": {
+    "math-city:exercise-1plus1": [
+      {
+        "id": 1,
+        "text": "כמה זה 1 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "1"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus1",
+        "learningGoal": "חיבור עד 10: 1 + 1",
+        "symbol": "1 + 1"
+      },
+      {
+        "id": 2,
+        "text": "בחרו את התוצאה של 1 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "1"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus1",
+        "learningGoal": "חיבור עד 10: 1 + 1",
+        "symbol": "1 + 1"
+      },
+      {
+        "id": 3,
+        "text": "איזה מספר מתקבל מ־1 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "1"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus1",
+        "learningGoal": "חיבור עד 10: 1 + 1",
+        "symbol": "1 + 1"
+      }
+    ],
+    "math-city:exercise-2plus1": [
+      {
+        "id": 4,
+        "text": "כמה זה 2 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "2"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus1",
+        "learningGoal": "חיבור עד 10: 2 + 1",
+        "symbol": "2 + 1"
+      },
+      {
+        "id": 5,
+        "text": "בחרו את התוצאה של 2 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "2"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus1",
+        "learningGoal": "חיבור עד 10: 2 + 1",
+        "symbol": "2 + 1"
+      },
+      {
+        "id": 6,
+        "text": "איזה מספר מתקבל מ־2 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "2"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus1",
+        "learningGoal": "חיבור עד 10: 2 + 1",
+        "symbol": "2 + 1"
+      }
+    ],
+    "math-city:exercise-1plus2": [
+      {
+        "id": 7,
+        "text": "כמה זה 1 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "3"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus2",
+        "learningGoal": "חיבור עד 10: 1 + 2",
+        "symbol": "1 + 2"
+      },
+      {
+        "id": 8,
+        "text": "בחרו את התוצאה של 1 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "3"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus2",
+        "learningGoal": "חיבור עד 10: 1 + 2",
+        "symbol": "1 + 2"
+      },
+      {
+        "id": 9,
+        "text": "איזה מספר מתקבל מ־1 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "3"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "2"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus2",
+        "learningGoal": "חיבור עד 10: 1 + 2",
+        "symbol": "1 + 2"
+      }
+    ],
+    "math-city:exercise-2plus2": [
+      {
+        "id": 10,
+        "text": "כמה זה 2 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus2",
+        "learningGoal": "חיבור עד 10: 2 + 2",
+        "symbol": "2 + 2"
+      },
+      {
+        "id": 11,
+        "text": "בחרו את התוצאה של 2 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus2",
+        "learningGoal": "חיבור עד 10: 2 + 2",
+        "symbol": "2 + 2"
+      },
+      {
+        "id": 12,
+        "text": "איזה מספר מתקבל מ־2 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus2",
+        "learningGoal": "חיבור עד 10: 2 + 2",
+        "symbol": "2 + 2"
+      }
+    ],
+    "math-city:exercise-3plus1": [
+      {
+        "id": 13,
+        "text": "כמה זה 3 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus1",
+        "learningGoal": "חיבור עד 10: 3 + 1",
+        "symbol": "3 + 1"
+      },
+      {
+        "id": 14,
+        "text": "בחרו את התוצאה של 3 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus1",
+        "learningGoal": "חיבור עד 10: 3 + 1",
+        "symbol": "3 + 1"
+      },
+      {
+        "id": 15,
+        "text": "איזה מספר מתקבל מ־3 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "3"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus1",
+        "learningGoal": "חיבור עד 10: 3 + 1",
+        "symbol": "3 + 1"
+      }
+    ],
+    "math-city:exercise-1plus3": [
+      {
+        "id": 16,
+        "text": "כמה זה 1 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus3",
+        "learningGoal": "חיבור עד 10: 1 + 3",
+        "symbol": "1 + 3"
+      },
+      {
+        "id": 17,
+        "text": "בחרו את התוצאה של 1 + 3",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus3",
+        "learningGoal": "חיבור עד 10: 1 + 3",
+        "symbol": "1 + 3"
+      },
+      {
+        "id": 18,
+        "text": "איזה מספר מתקבל מ־1 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "3"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus3",
+        "learningGoal": "חיבור עד 10: 1 + 3",
+        "symbol": "1 + 3"
+      }
+    ],
+    "math-city:exercise-3plus2": [
+      {
+        "id": 19,
+        "text": "כמה זה 3 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus2",
+        "learningGoal": "חיבור עד 10: 3 + 2",
+        "symbol": "3 + 2"
+      },
+      {
+        "id": 20,
+        "text": "בחרו את התוצאה של 3 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus2",
+        "learningGoal": "חיבור עד 10: 3 + 2",
+        "symbol": "3 + 2"
+      },
+      {
+        "id": 21,
+        "text": "איזה מספר מתקבל מ־3 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "4"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus2",
+        "learningGoal": "חיבור עד 10: 3 + 2",
+        "symbol": "3 + 2"
+      }
+    ],
+    "math-city:exercise-2plus3": [
+      {
+        "id": 22,
+        "text": "כמה זה 2 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus3",
+        "learningGoal": "חיבור עד 10: 2 + 3",
+        "symbol": "2 + 3"
+      },
+      {
+        "id": 23,
+        "text": "בחרו את התוצאה של 2 + 3",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus3",
+        "learningGoal": "חיבור עד 10: 2 + 3",
+        "symbol": "2 + 3"
+      },
+      {
+        "id": 24,
+        "text": "איזה מספר מתקבל מ־2 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus3",
+        "learningGoal": "חיבור עד 10: 2 + 3",
+        "symbol": "2 + 3"
+      }
+    ],
+    "math-city:exercise-4plus1": [
+      {
+        "id": 25,
+        "text": "כמה זה 4 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus1",
+        "learningGoal": "חיבור עד 10: 4 + 1",
+        "symbol": "4 + 1"
+      },
+      {
+        "id": 26,
+        "text": "בחרו את התוצאה של 4 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus1",
+        "learningGoal": "חיבור עד 10: 4 + 1",
+        "symbol": "4 + 1"
+      },
+      {
+        "id": 27,
+        "text": "איזה מספר מתקבל מ־4 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "4"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus1",
+        "learningGoal": "חיבור עד 10: 4 + 1",
+        "symbol": "4 + 1"
+      }
+    ],
+    "math-city:exercise-1plus4": [
+      {
+        "id": 28,
+        "text": "כמה זה 1 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus4",
+        "learningGoal": "חיבור עד 10: 1 + 4",
+        "symbol": "1 + 4"
+      },
+      {
+        "id": 29,
+        "text": "בחרו את התוצאה של 1 + 4",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus4",
+        "learningGoal": "חיבור עד 10: 1 + 4",
+        "symbol": "1 + 4"
+      },
+      {
+        "id": 30,
+        "text": "איזה מספר מתקבל מ־1 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "4"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus4",
+        "learningGoal": "חיבור עד 10: 1 + 4",
+        "symbol": "1 + 4"
+      }
+    ],
+    "math-city:exercise-4plus2": [
+      {
+        "id": 31,
+        "text": "כמה זה 4 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus2",
+        "learningGoal": "חיבור עד 10: 4 + 2",
+        "symbol": "4 + 2"
+      },
+      {
+        "id": 32,
+        "text": "בחרו את התוצאה של 4 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus2",
+        "learningGoal": "חיבור עד 10: 4 + 2",
+        "symbol": "4 + 2"
+      },
+      {
+        "id": 33,
+        "text": "איזה מספר מתקבל מ־4 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus2",
+        "learningGoal": "חיבור עד 10: 4 + 2",
+        "symbol": "4 + 2"
+      }
+    ],
+    "math-city:exercise-3plus3": [
+      {
+        "id": 34,
+        "text": "כמה זה 3 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus3",
+        "learningGoal": "חיבור עד 10: 3 + 3",
+        "symbol": "3 + 3"
+      },
+      {
+        "id": 35,
+        "text": "בחרו את התוצאה של 3 + 3",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus3",
+        "learningGoal": "חיבור עד 10: 3 + 3",
+        "symbol": "3 + 3"
+      },
+      {
+        "id": 36,
+        "text": "איזה מספר מתקבל מ־3 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus3",
+        "learningGoal": "חיבור עד 10: 3 + 3",
+        "symbol": "3 + 3"
+      }
+    ],
+    "math-city:exercise-2plus4": [
+      {
+        "id": 37,
+        "text": "כמה זה 2 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus4",
+        "learningGoal": "חיבור עד 10: 2 + 4",
+        "symbol": "2 + 4"
+      },
+      {
+        "id": 38,
+        "text": "בחרו את התוצאה של 2 + 4",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus4",
+        "learningGoal": "חיבור עד 10: 2 + 4",
+        "symbol": "2 + 4"
+      },
+      {
+        "id": 39,
+        "text": "איזה מספר מתקבל מ־2 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "5"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus4",
+        "learningGoal": "חיבור עד 10: 2 + 4",
+        "symbol": "2 + 4"
+      }
+    ],
+    "math-city:exercise-5plus1": [
+      {
+        "id": 40,
+        "text": "כמה זה 5 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "5"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus1",
+        "learningGoal": "חיבור עד 10: 5 + 1",
+        "symbol": "5 + 1"
+      },
+      {
+        "id": 41,
+        "text": "בחרו את התוצאה של 5 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "5"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus1",
+        "learningGoal": "חיבור עד 10: 5 + 1",
+        "symbol": "5 + 1"
+      },
+      {
+        "id": 42,
+        "text": "איזה מספר מתקבל מ־5 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "5"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus1",
+        "learningGoal": "חיבור עד 10: 5 + 1",
+        "symbol": "5 + 1"
+      }
+    ],
+    "math-city:exercise-1plus5": [
+      {
+        "id": 43,
+        "text": "כמה זה 1 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus5",
+        "learningGoal": "חיבור עד 10: 1 + 5",
+        "symbol": "1 + 5"
+      },
+      {
+        "id": 44,
+        "text": "בחרו את התוצאה של 1 + 5",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus5",
+        "learningGoal": "חיבור עד 10: 1 + 5",
+        "symbol": "1 + 5"
+      },
+      {
+        "id": 45,
+        "text": "איזה מספר מתקבל מ־1 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "5"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus5",
+        "learningGoal": "חיבור עד 10: 1 + 5",
+        "symbol": "1 + 5"
+      }
+    ],
+    "math-city:exercise-4plus3": [
+      {
+        "id": 46,
+        "text": "כמה זה 4 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus3",
+        "learningGoal": "חיבור עד 10: 4 + 3",
+        "symbol": "4 + 3"
+      },
+      {
+        "id": 47,
+        "text": "בחרו את התוצאה של 4 + 3",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus3",
+        "learningGoal": "חיבור עד 10: 4 + 3",
+        "symbol": "4 + 3"
+      },
+      {
+        "id": 48,
+        "text": "איזה מספר מתקבל מ־4 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus3",
+        "learningGoal": "חיבור עד 10: 4 + 3",
+        "symbol": "4 + 3"
+      }
+    ],
+    "math-city:exercise-3plus4": [
+      {
+        "id": 49,
+        "text": "כמה זה 3 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus4",
+        "learningGoal": "חיבור עד 10: 3 + 4",
+        "symbol": "3 + 4"
+      },
+      {
+        "id": 50,
+        "text": "בחרו את התוצאה של 3 + 4",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus4",
+        "learningGoal": "חיבור עד 10: 3 + 4",
+        "symbol": "3 + 4"
+      },
+      {
+        "id": 51,
+        "text": "איזה מספר מתקבל מ־3 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus4",
+        "learningGoal": "חיבור עד 10: 3 + 4",
+        "symbol": "3 + 4"
+      }
+    ],
+    "math-city:exercise-5plus2": [
+      {
+        "id": 52,
+        "text": "כמה זה 5 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus2",
+        "learningGoal": "חיבור עד 10: 5 + 2",
+        "symbol": "5 + 2"
+      },
+      {
+        "id": 53,
+        "text": "בחרו את התוצאה של 5 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus2",
+        "learningGoal": "חיבור עד 10: 5 + 2",
+        "symbol": "5 + 2"
+      },
+      {
+        "id": 54,
+        "text": "איזה מספר מתקבל מ־5 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus2",
+        "learningGoal": "חיבור עד 10: 5 + 2",
+        "symbol": "5 + 2"
+      }
+    ],
+    "math-city:exercise-2plus5": [
+      {
+        "id": 55,
+        "text": "כמה זה 2 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus5",
+        "learningGoal": "חיבור עד 10: 2 + 5",
+        "symbol": "2 + 5"
+      },
+      {
+        "id": 56,
+        "text": "בחרו את התוצאה של 2 + 5",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus5",
+        "learningGoal": "חיבור עד 10: 2 + 5",
+        "symbol": "2 + 5"
+      },
+      {
+        "id": 57,
+        "text": "איזה מספר מתקבל מ־2 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "6"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus5",
+        "learningGoal": "חיבור עד 10: 2 + 5",
+        "symbol": "2 + 5"
+      }
+    ],
+    "math-city:exercise-6plus1": [
+      {
+        "id": 58,
+        "text": "כמה זה 6 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus1",
+        "learningGoal": "חיבור עד 10: 6 + 1",
+        "symbol": "6 + 1"
+      },
+      {
+        "id": 59,
+        "text": "בחרו את התוצאה של 6 + 1",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus1",
+        "learningGoal": "חיבור עד 10: 6 + 1",
+        "symbol": "6 + 1"
+      },
+      {
+        "id": 60,
+        "text": "איזה מספר מתקבל מ־6 + 1?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "6"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus1",
+        "learningGoal": "חיבור עד 10: 6 + 1",
+        "symbol": "6 + 1"
+      }
+    ],
+    "math-city:exercise-1plus6": [
+      {
+        "id": 61,
+        "text": "כמה זה 1 + 6?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus6",
+        "learningGoal": "חיבור עד 10: 1 + 6",
+        "symbol": "1 + 6"
+      },
+      {
+        "id": 62,
+        "text": "בחרו את התוצאה של 1 + 6",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus6",
+        "learningGoal": "חיבור עד 10: 1 + 6",
+        "symbol": "1 + 6"
+      },
+      {
+        "id": 63,
+        "text": "איזה מספר מתקבל מ־1 + 6?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "6"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-1plus6",
+        "learningGoal": "חיבור עד 10: 1 + 6",
+        "symbol": "1 + 6"
+      }
+    ],
+    "math-city:exercise-5plus3": [
+      {
+        "id": 64,
+        "text": "כמה זה 5 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus3",
+        "learningGoal": "חיבור עד 10: 5 + 3",
+        "symbol": "5 + 3"
+      },
+      {
+        "id": 65,
+        "text": "בחרו את התוצאה של 5 + 3",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus3",
+        "learningGoal": "חיבור עד 10: 5 + 3",
+        "symbol": "5 + 3"
+      },
+      {
+        "id": 66,
+        "text": "איזה מספר מתקבל מ־5 + 3?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "7"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus3",
+        "learningGoal": "חיבור עד 10: 5 + 3",
+        "symbol": "5 + 3"
+      }
+    ],
+    "math-city:exercise-4plus4": [
+      {
+        "id": 67,
+        "text": "כמה זה 4 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus4",
+        "learningGoal": "חיבור עד 10: 4 + 4",
+        "symbol": "4 + 4"
+      },
+      {
+        "id": 68,
+        "text": "בחרו את התוצאה של 4 + 4",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus4",
+        "learningGoal": "חיבור עד 10: 4 + 4",
+        "symbol": "4 + 4"
+      },
+      {
+        "id": 69,
+        "text": "איזה מספר מתקבל מ־4 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus4",
+        "learningGoal": "חיבור עד 10: 4 + 4",
+        "symbol": "4 + 4"
+      }
+    ],
+    "math-city:exercise-3plus5": [
+      {
+        "id": 70,
+        "text": "כמה זה 3 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus5",
+        "learningGoal": "חיבור עד 10: 3 + 5",
+        "symbol": "3 + 5"
+      },
+      {
+        "id": 71,
+        "text": "בחרו את התוצאה של 3 + 5",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus5",
+        "learningGoal": "חיבור עד 10: 3 + 5",
+        "symbol": "3 + 5"
+      },
+      {
+        "id": 72,
+        "text": "איזה מספר מתקבל מ־3 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-3plus5",
+        "learningGoal": "חיבור עד 10: 3 + 5",
+        "symbol": "3 + 5"
+      }
+    ],
+    "math-city:exercise-6plus2": [
+      {
+        "id": 73,
+        "text": "כמה זה 6 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus2",
+        "learningGoal": "חיבור עד 10: 6 + 2",
+        "symbol": "6 + 2"
+      },
+      {
+        "id": 74,
+        "text": "בחרו את התוצאה של 6 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus2",
+        "learningGoal": "חיבור עד 10: 6 + 2",
+        "symbol": "6 + 2"
+      },
+      {
+        "id": 75,
+        "text": "איזה מספר מתקבל מ־6 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "7"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-6plus2",
+        "learningGoal": "חיבור עד 10: 6 + 2",
+        "symbol": "6 + 2"
+      }
+    ],
+    "math-city:exercise-2plus6": [
+      {
+        "id": 76,
+        "text": "כמה זה 2 + 6?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "9"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus6",
+        "learningGoal": "חיבור עד 10: 2 + 6",
+        "symbol": "2 + 6"
+      },
+      {
+        "id": 77,
+        "text": "בחרו את התוצאה של 2 + 6",
+        "answers": [
+          {
+            "id": 1,
+            "text": "9"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus6",
+        "learningGoal": "חיבור עד 10: 2 + 6",
+        "symbol": "2 + 6"
+      },
+      {
+        "id": 78,
+        "text": "איזה מספר מתקבל מ־2 + 6?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "9"
+          },
+          {
+            "id": 2,
+            "text": "8"
+          },
+          {
+            "id": 3,
+            "text": "7"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-2plus6",
+        "learningGoal": "חיבור עד 10: 2 + 6",
+        "symbol": "2 + 6"
+      }
+    ],
+    "math-city:exercise-5plus4": [
+      {
+        "id": 79,
+        "text": "כמה זה 5 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "10"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus4",
+        "learningGoal": "חיבור עד 10: 5 + 4",
+        "symbol": "5 + 4"
+      },
+      {
+        "id": 80,
+        "text": "בחרו את התוצאה של 5 + 4",
+        "answers": [
+          {
+            "id": 1,
+            "text": "10"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus4",
+        "learningGoal": "חיבור עד 10: 5 + 4",
+        "symbol": "5 + 4"
+      },
+      {
+        "id": 81,
+        "text": "איזה מספר מתקבל מ־5 + 4?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "10"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "8"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-5plus4",
+        "learningGoal": "חיבור עד 10: 5 + 4",
+        "symbol": "5 + 4"
+      }
+    ],
+    "math-city:exercise-4plus5": [
+      {
+        "id": 82,
+        "text": "כמה זה 4 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "10"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus5",
+        "learningGoal": "חיבור עד 10: 4 + 5",
+        "symbol": "4 + 5"
+      },
+      {
+        "id": 83,
+        "text": "בחרו את התוצאה של 4 + 5",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "10"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus5",
+        "learningGoal": "חיבור עד 10: 4 + 5",
+        "symbol": "4 + 5"
+      },
+      {
+        "id": 84,
+        "text": "איזה מספר מתקבל מ־4 + 5?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "9"
+          },
+          {
+            "id": 3,
+            "text": "10"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-4plus5",
+        "learningGoal": "חיבור עד 10: 4 + 5",
+        "symbol": "4 + 5"
+      }
+    ],
+    "math-city:exercise-7plus2": [
+      {
+        "id": 85,
+        "text": "כמה זה 7 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "10"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-7plus2",
+        "learningGoal": "חיבור עד 10: 7 + 2",
+        "symbol": "7 + 2"
+      },
+      {
+        "id": 86,
+        "text": "בחרו את התוצאה של 7 + 2",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "10"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-7plus2",
+        "learningGoal": "חיבור עד 10: 7 + 2",
+        "symbol": "7 + 2"
+      },
+      {
+        "id": 87,
+        "text": "איזה מספר מתקבל מ־7 + 2?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "8"
+          },
+          {
+            "id": 2,
+            "text": "10"
+          },
+          {
+            "id": 3,
+            "text": "9"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "boardId": "math-city",
+        "groupId": "math-city:exercise-7plus2",
+        "learningGoal": "חיבור עד 10: 7 + 2",
+        "symbol": "7 + 2"
+      }
+    ]
+  }
+}

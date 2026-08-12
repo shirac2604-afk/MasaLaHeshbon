@@ -1,0 +1,1041 @@
+{
+  "schemaVersion": 2,
+  "id": "grand-math-journey",
+  "version": "0.7.0",
+  "name": "המסע הגדול",
+  "description": "לוח הסיום של מסע לחשבון: 60 תחנות עם חיבור וחיסור עד 10, סולמות ונחשים",
+  "assetKey": "board-grand-math-journey",
+  "image": "assets/math/boards/grand-math-journey.png",
+  "category": "חשבון",
+  "questionSet": "grand-math-journey",
+  "difficulty": 1,
+  "difficultyLabel": "הכנה לכיתה א׳",
+  "recommendedAge": "5–7",
+  "estimatedDuration": "20–30 דקות",
+  "learningGoals": [
+    "חזרה על חיבור עד 10",
+    "חזרה על חיסור עד 10",
+    "זיהוי פעולת החשבון המתאימה"
+  ],
+  "theme": {
+    "primary": "#6c4fd3",
+    "accent": "#f4c542",
+    "tileFill": "#fff7df",
+    "tileStroke": "#5a3f9d",
+    "pathStroke": "#f0c75e"
+  },
+  "layout": {
+    "referenceWidth": 1600,
+    "referenceHeight": 900,
+    "tileRadius": 30,
+    "renderTiles": false,
+    "renderPath": false,
+    "renderTransitions": false,
+    "renderHeader": false,
+    "renderEndpointBadges": false
+  },
+  "path": [
+    {
+      "id": 1,
+      "center": {
+        "x": 0.075,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.2
+      },
+      "type": "start",
+      "questionGroup": "grand-math-journey:exercise-1",
+      "label": "1 + 1",
+      "learningGoal": "חיבור עד 10: 1 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 2,
+      "center": {
+        "x": 0.16875,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-2",
+      "label": "2 − 1",
+      "learningGoal": "חיסור עד 10: 2 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 3,
+      "center": {
+        "x": 0.2625,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-3",
+      "label": "1 + 2",
+      "learningGoal": "חיבור עד 10: 1 + 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 4,
+      "center": {
+        "x": 0.35625,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-4",
+      "label": "3 − 1",
+      "learningGoal": "חיסור עד 10: 3 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 5,
+      "center": {
+        "x": 0.45,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-5",
+      "label": "2 + 1",
+      "learningGoal": "חיבור עד 10: 2 + 1",
+      "stationKind": "surprise"
+    },
+    {
+      "id": 6,
+      "center": {
+        "x": 0.54375,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-6",
+      "label": "3 − 2",
+      "learningGoal": "חיסור עד 10: 3 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 7,
+      "center": {
+        "x": 0.6375,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-7",
+      "label": "1 + 3",
+      "learningGoal": "חיבור עד 10: 1 + 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 8,
+      "center": {
+        "x": 0.73125,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-8",
+      "label": "4 − 1",
+      "learningGoal": "חיסור עד 10: 4 − 1",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 9,
+      "center": {
+        "x": 0.825,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-9",
+      "label": "2 + 2",
+      "learningGoal": "חיבור עד 10: 2 + 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 10,
+      "center": {
+        "x": 0.91875,
+        "y": 0.2
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.2
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-10",
+      "label": "4 − 2",
+      "learningGoal": "חיסור עד 10: 4 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 11,
+      "center": {
+        "x": 0.91875,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-11",
+      "label": "3 + 1",
+      "learningGoal": "חיבור עד 10: 3 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 12,
+      "center": {
+        "x": 0.825,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-12",
+      "label": "4 − 3",
+      "learningGoal": "חיסור עד 10: 4 − 3",
+      "stationKind": "bonus"
+    },
+    {
+      "id": 13,
+      "center": {
+        "x": 0.73125,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-13",
+      "label": "1 + 4",
+      "learningGoal": "חיבור עד 10: 1 + 4",
+      "stationKind": "normal"
+    },
+    {
+      "id": 14,
+      "center": {
+        "x": 0.6375,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-14",
+      "label": "5 − 1",
+      "learningGoal": "חיסור עד 10: 5 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 15,
+      "center": {
+        "x": 0.54375,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-15",
+      "label": "2 + 3",
+      "learningGoal": "חיבור עד 10: 2 + 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 16,
+      "center": {
+        "x": 0.45,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-16",
+      "label": "5 − 2",
+      "learningGoal": "חיסור עד 10: 5 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 17,
+      "center": {
+        "x": 0.35625,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-17",
+      "label": "3 + 2",
+      "learningGoal": "חיבור עד 10: 3 + 2",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 18,
+      "center": {
+        "x": 0.2625,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-18",
+      "label": "5 − 3",
+      "learningGoal": "חיסור עד 10: 5 − 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 19,
+      "center": {
+        "x": 0.16875,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-19",
+      "label": "4 + 1",
+      "learningGoal": "חיבור עד 10: 4 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 20,
+      "center": {
+        "x": 0.075,
+        "y": 0.324444
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.324444
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-20",
+      "label": "5 − 4",
+      "learningGoal": "חיסור עד 10: 5 − 4",
+      "stationKind": "surprise"
+    },
+    {
+      "id": 21,
+      "center": {
+        "x": 0.075,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-21",
+      "label": "1 + 5",
+      "learningGoal": "חיבור עד 10: 1 + 5",
+      "stationKind": "normal"
+    },
+    {
+      "id": 22,
+      "center": {
+        "x": 0.16875,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-22",
+      "label": "6 − 1",
+      "learningGoal": "חיסור עד 10: 6 − 1",
+      "stationKind": "bonus"
+    },
+    {
+      "id": 23,
+      "center": {
+        "x": 0.2625,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-23",
+      "label": "2 + 4",
+      "learningGoal": "חיבור עד 10: 2 + 4",
+      "stationKind": "normal"
+    },
+    {
+      "id": 24,
+      "center": {
+        "x": 0.35625,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-24",
+      "label": "6 − 2",
+      "learningGoal": "חיסור עד 10: 6 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 25,
+      "center": {
+        "x": 0.45,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-25",
+      "label": "3 + 3",
+      "learningGoal": "חיבור עד 10: 3 + 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 26,
+      "center": {
+        "x": 0.54375,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-26",
+      "label": "6 − 3",
+      "learningGoal": "חיסור עד 10: 6 − 3",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 27,
+      "center": {
+        "x": 0.6375,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-27",
+      "label": "4 + 2",
+      "learningGoal": "חיבור עד 10: 4 + 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 28,
+      "center": {
+        "x": 0.73125,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-28",
+      "label": "6 − 4",
+      "learningGoal": "חיסור עד 10: 6 − 4",
+      "stationKind": "normal"
+    },
+    {
+      "id": 29,
+      "center": {
+        "x": 0.825,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-29",
+      "label": "5 + 1",
+      "learningGoal": "חיבור עד 10: 5 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 30,
+      "center": {
+        "x": 0.91875,
+        "y": 0.448889
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.448889
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-30",
+      "label": "6 − 5",
+      "learningGoal": "חיסור עד 10: 6 − 5",
+      "stationKind": "normal"
+    },
+    {
+      "id": 31,
+      "center": {
+        "x": 0.91875,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-31",
+      "label": "1 + 6",
+      "learningGoal": "חיבור עד 10: 1 + 6",
+      "stationKind": "normal"
+    },
+    {
+      "id": 32,
+      "center": {
+        "x": 0.825,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-32",
+      "label": "7 − 1",
+      "learningGoal": "חיסור עד 10: 7 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 33,
+      "center": {
+        "x": 0.73125,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-33",
+      "label": "2 + 5",
+      "learningGoal": "חיבור עד 10: 2 + 5",
+      "stationKind": "normal"
+    },
+    {
+      "id": 34,
+      "center": {
+        "x": 0.6375,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-34",
+      "label": "7 − 2",
+      "learningGoal": "חיסור עד 10: 7 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 35,
+      "center": {
+        "x": 0.54375,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-35",
+      "label": "3 + 4",
+      "learningGoal": "חיבור עד 10: 3 + 4",
+      "stationKind": "surprise"
+    },
+    {
+      "id": 36,
+      "center": {
+        "x": 0.45,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-36",
+      "label": "7 − 3",
+      "learningGoal": "חיסור עד 10: 7 − 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 37,
+      "center": {
+        "x": 0.35625,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-37",
+      "label": "4 + 3",
+      "learningGoal": "חיבור עד 10: 4 + 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 38,
+      "center": {
+        "x": 0.2625,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-38",
+      "label": "7 − 4",
+      "learningGoal": "חיסור עד 10: 7 − 4",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 39,
+      "center": {
+        "x": 0.16875,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-39",
+      "label": "5 + 2",
+      "learningGoal": "חיבור עד 10: 5 + 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 40,
+      "center": {
+        "x": 0.075,
+        "y": 0.573333
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.573333
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-40",
+      "label": "7 − 5",
+      "learningGoal": "חיסור עד 10: 7 − 5",
+      "stationKind": "normal"
+    },
+    {
+      "id": 41,
+      "center": {
+        "x": 0.075,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-41",
+      "label": "6 + 1",
+      "learningGoal": "חיבור עד 10: 6 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 42,
+      "center": {
+        "x": 0.16875,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-42",
+      "label": "7 − 6",
+      "learningGoal": "חיסור עד 10: 7 − 6",
+      "stationKind": "bonus"
+    },
+    {
+      "id": 43,
+      "center": {
+        "x": 0.2625,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-43",
+      "label": "1 + 7",
+      "learningGoal": "חיבור עד 10: 1 + 7",
+      "stationKind": "normal"
+    },
+    {
+      "id": 44,
+      "center": {
+        "x": 0.35625,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-44",
+      "label": "8 − 1",
+      "learningGoal": "חיסור עד 10: 8 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 45,
+      "center": {
+        "x": 0.45,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-45",
+      "label": "2 + 6",
+      "learningGoal": "חיבור עד 10: 2 + 6",
+      "stationKind": "normal"
+    },
+    {
+      "id": 46,
+      "center": {
+        "x": 0.54375,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-46",
+      "label": "8 − 2",
+      "learningGoal": "חיסור עד 10: 8 − 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 47,
+      "center": {
+        "x": 0.6375,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-47",
+      "label": "3 + 5",
+      "learningGoal": "חיבור עד 10: 3 + 5",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 48,
+      "center": {
+        "x": 0.73125,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-48",
+      "label": "8 − 3",
+      "learningGoal": "חיסור עד 10: 8 − 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 49,
+      "center": {
+        "x": 0.825,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-49",
+      "label": "4 + 4",
+      "learningGoal": "חיבור עד 10: 4 + 4",
+      "stationKind": "normal"
+    },
+    {
+      "id": 50,
+      "center": {
+        "x": 0.91875,
+        "y": 0.697778
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.697778
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-50",
+      "label": "8 − 4",
+      "learningGoal": "חיסור עד 10: 8 − 4",
+      "stationKind": "surprise"
+    },
+    {
+      "id": 51,
+      "center": {
+        "x": 0.91875,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.91875,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-51",
+      "label": "5 + 3",
+      "learningGoal": "חיבור עד 10: 5 + 3",
+      "stationKind": "normal"
+    },
+    {
+      "id": 52,
+      "center": {
+        "x": 0.825,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.825,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-52",
+      "label": "8 − 5",
+      "learningGoal": "חיסור עד 10: 8 − 5",
+      "stationKind": "bonus"
+    },
+    {
+      "id": 53,
+      "center": {
+        "x": 0.73125,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.73125,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-53",
+      "label": "6 + 2",
+      "learningGoal": "חיבור עד 10: 6 + 2",
+      "stationKind": "normal"
+    },
+    {
+      "id": 54,
+      "center": {
+        "x": 0.6375,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.6375,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-54",
+      "label": "8 − 6",
+      "learningGoal": "חיסור עד 10: 8 − 6",
+      "stationKind": "normal"
+    },
+    {
+      "id": 55,
+      "center": {
+        "x": 0.54375,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-55",
+      "label": "7 + 1",
+      "learningGoal": "חיבור עד 10: 7 + 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 56,
+      "center": {
+        "x": 0.45,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.45,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-56",
+      "label": "8 − 7",
+      "learningGoal": "חיסור עד 10: 8 − 7",
+      "stationKind": "challenge"
+    },
+    {
+      "id": 57,
+      "center": {
+        "x": 0.35625,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.35625,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-57",
+      "label": "1 + 8",
+      "learningGoal": "חיבור עד 10: 1 + 8",
+      "stationKind": "normal"
+    },
+    {
+      "id": 58,
+      "center": {
+        "x": 0.2625,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.2625,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-58",
+      "label": "9 − 1",
+      "learningGoal": "חיסור עד 10: 9 − 1",
+      "stationKind": "normal"
+    },
+    {
+      "id": 59,
+      "center": {
+        "x": 0.16875,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.16875,
+        "y": 0.822222
+      },
+      "type": "question",
+      "questionGroup": "grand-math-journey:exercise-59",
+      "label": "2 + 7",
+      "learningGoal": "חיבור עד 10: 2 + 7",
+      "stationKind": "normal"
+    },
+    {
+      "id": 60,
+      "center": {
+        "x": 0.075,
+        "y": 0.822222
+      },
+      "anchor": {
+        "x": 0.075,
+        "y": 0.822222
+      },
+      "type": "finish",
+      "questionGroup": "grand-math-journey:finish",
+      "label": "סיום",
+      "learningGoal": "סיום המסע הגדול",
+      "stationKind": "normal"
+    }
+  ],
+  "transitions": [
+    {
+      "from": 3,
+      "to": 18,
+      "kind": "ladder"
+    },
+    {
+      "from": 14,
+      "to": 29,
+      "kind": "ladder"
+    },
+    {
+      "from": 32,
+      "to": 47,
+      "kind": "ladder"
+    },
+    {
+      "from": 45,
+      "to": 56,
+      "kind": "ladder"
+    },
+    {
+      "from": 17,
+      "to": 5,
+      "kind": "snake"
+    },
+    {
+      "from": 30,
+      "to": 11,
+      "kind": "snake"
+    },
+    {
+      "from": 44,
+      "to": 25,
+      "kind": "snake"
+    },
+    {
+      "from": 58,
+      "to": 39,
+      "kind": "snake"
+    }
+  ]
+}

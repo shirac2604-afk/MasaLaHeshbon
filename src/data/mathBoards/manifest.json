@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "status": "alpha-0.7",
+  "gameId": "masa-la-heshbon",
+  "boards": [
+    {
+      "id": "forest-numbers",
+      "title": "יער המספרים",
+      "topic": "numbers-and-simple-addition",
+      "tileCount": 30,
+      "mode": "path"
+    },
+    {
+      "id": "addition-lake",
+      "title": "אגם החיבור",
+      "topic": "addition-to-10",
+      "tileCount": 30,
+      "mode": "path"
+    },
+    {
+      "id": "math-city",
+      "title": "עיר החשבון",
+      "topic": "varied-addition-to-10",
+      "tileCount": 30,
+      "mode": "path"
+    },
+    {
+      "id": "subtraction-trail",
+      "title": "שביל החיסור",
+      "topic": "subtraction-to-10",
+      "tileCount": 30,
+      "mode": "path"
+    },
+    {
+      "id": "treasure-island",
+      "title": "אי האוצר",
+      "topic": "mixed-to-10",
+      "tileCount": 30,
+      "mode": "path"
+    },
+    {
+      "id": "grand-math-journey",
+      "title": "המסע הגדול",
+      "topic": "mixed-to-10",
+      "tileCount": 60,
+      "mode": "snakes-and-ladders"
+    }
+  ]
+}

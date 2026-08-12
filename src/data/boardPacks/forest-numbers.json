@@ -1,0 +1,490 @@
+{
+  "schemaVersion": 2,
+  "id": "forest-numbers",
+  "version": "0.2.0",
+  "name": "יער המספרים",
+  "description": "מסלול ראשון וחווייתי לתרגול חיבור פשוט עד 10",
+  "assetKey": "board-math-forest-numbers",
+  "image": "assets/math/boards/forest-numbers.png",
+  "category": "חשבון",
+  "questionSet": "forest-numbers",
+  "difficulty": 1,
+  "difficultyLabel": "הכנה לכיתה א׳",
+  "recommendedAge": "5–7",
+  "estimatedDuration": "15–20 דקות",
+  "learningGoals": [
+    "היכרות עם חיבור",
+    "פתרון תרגילי חיבור עד 10",
+    "חיזוק ביטחון במספרים"
+  ],
+  "theme": {
+    "primary": "#3f8837",
+    "accent": "#f4c542",
+    "tileFill": "#fff1cf",
+    "tileStroke": "#6a431d",
+    "pathStroke": "#f6d36b"
+  },
+  "layout": {
+    "referenceWidth": 1600,
+    "referenceHeight": 900,
+    "tileRadius": 42,
+    "renderTiles": false,
+    "renderPath": false,
+    "renderTransitions": false,
+    "renderHeader": false,
+    "renderEndpointBadges": false
+  },
+  "path": [
+    {
+      "id": 1,
+      "center": {
+        "x": 0.115625,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.115625,
+        "y": 0.35
+      },
+      "type": "start",
+      "questionGroup": "forest-numbers:exercise-1plus1",
+      "label": "1 + 1",
+      "learningGoal": "פתרון התרגיל 1 + 1"
+    },
+    {
+      "id": 2,
+      "center": {
+        "x": 0.20125,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.20125,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-1plus2",
+      "label": "1 + 2",
+      "learningGoal": "פתרון התרגיל 1 + 2"
+    },
+    {
+      "id": 3,
+      "center": {
+        "x": 0.286875,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.286875,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-2plus1",
+      "label": "2 + 1",
+      "learningGoal": "פתרון התרגיל 2 + 1"
+    },
+    {
+      "id": 4,
+      "center": {
+        "x": 0.3725,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.3725,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-2plus2",
+      "label": "2 + 2",
+      "learningGoal": "פתרון התרגיל 2 + 2"
+    },
+    {
+      "id": 5,
+      "center": {
+        "x": 0.458125,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.458125,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-3plus1",
+      "label": "3 + 1",
+      "learningGoal": "פתרון התרגיל 3 + 1"
+    },
+    {
+      "id": 6,
+      "center": {
+        "x": 0.54375,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-3plus2",
+      "label": "3 + 2",
+      "learningGoal": "פתרון התרגיל 3 + 2"
+    },
+    {
+      "id": 7,
+      "center": {
+        "x": 0.629375,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.629375,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-4plus1",
+      "label": "4 + 1",
+      "learningGoal": "פתרון התרגיל 4 + 1"
+    },
+    {
+      "id": 8,
+      "center": {
+        "x": 0.715,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.715,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-4plus2",
+      "label": "4 + 2",
+      "learningGoal": "פתרון התרגיל 4 + 2"
+    },
+    {
+      "id": 9,
+      "center": {
+        "x": 0.800625,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.800625,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-5plus1",
+      "label": "5 + 1",
+      "learningGoal": "פתרון התרגיל 5 + 1"
+    },
+    {
+      "id": 10,
+      "center": {
+        "x": 0.88625,
+        "y": 0.35
+      },
+      "anchor": {
+        "x": 0.88625,
+        "y": 0.35
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-5plus2",
+      "label": "5 + 2",
+      "learningGoal": "פתרון התרגיל 5 + 2"
+    },
+    {
+      "id": 11,
+      "center": {
+        "x": 0.88625,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.88625,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-2plus3",
+      "label": "2 + 3",
+      "learningGoal": "פתרון התרגיל 2 + 3"
+    },
+    {
+      "id": 12,
+      "center": {
+        "x": 0.800625,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.800625,
+        "y": 0.572222
+      },
+      "type": "bonus",
+      "questionGroup": "forest-numbers:exercise-4plus3",
+      "label": "4 + 3",
+      "learningGoal": "פתרון התרגיל 4 + 3"
+    },
+    {
+      "id": 13,
+      "center": {
+        "x": 0.715,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.715,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-5plus3",
+      "label": "5 + 3",
+      "learningGoal": "פתרון התרגיל 5 + 3"
+    },
+    {
+      "id": 14,
+      "center": {
+        "x": 0.629375,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.629375,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-6plus1",
+      "label": "6 + 1",
+      "learningGoal": "פתרון התרגיל 6 + 1"
+    },
+    {
+      "id": 15,
+      "center": {
+        "x": 0.54375,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-6plus2",
+      "label": "6 + 2",
+      "learningGoal": "פתרון התרגיל 6 + 2"
+    },
+    {
+      "id": 16,
+      "center": {
+        "x": 0.458125,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.458125,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-7plus1",
+      "label": "7 + 1",
+      "learningGoal": "פתרון התרגיל 7 + 1"
+    },
+    {
+      "id": 17,
+      "center": {
+        "x": 0.3725,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.3725,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-7plus2",
+      "label": "7 + 2",
+      "learningGoal": "פתרון התרגיל 7 + 2"
+    },
+    {
+      "id": 18,
+      "center": {
+        "x": 0.286875,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.286875,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-8plus1",
+      "label": "8 + 1",
+      "learningGoal": "פתרון התרגיל 8 + 1"
+    },
+    {
+      "id": 19,
+      "center": {
+        "x": 0.20125,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.20125,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-8plus2",
+      "label": "8 + 2",
+      "learningGoal": "פתרון התרגיל 8 + 2"
+    },
+    {
+      "id": 20,
+      "center": {
+        "x": 0.115625,
+        "y": 0.572222
+      },
+      "anchor": {
+        "x": 0.115625,
+        "y": 0.572222
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-9plus1",
+      "label": "9 + 1",
+      "learningGoal": "פתרון התרגיל 9 + 1"
+    },
+    {
+      "id": 21,
+      "center": {
+        "x": 0.115625,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.115625,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-2plus4",
+      "label": "2 + 4",
+      "learningGoal": "פתרון התרגיל 2 + 4"
+    },
+    {
+      "id": 22,
+      "center": {
+        "x": 0.20125,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.20125,
+        "y": 0.794444
+      },
+      "type": "bonus",
+      "questionGroup": "forest-numbers:exercise-3plus4",
+      "label": "3 + 4",
+      "learningGoal": "פתרון התרגיל 3 + 4"
+    },
+    {
+      "id": 23,
+      "center": {
+        "x": 0.286875,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.286875,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-4plus4",
+      "label": "4 + 4",
+      "learningGoal": "פתרון התרגיל 4 + 4"
+    },
+    {
+      "id": 24,
+      "center": {
+        "x": 0.3725,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.3725,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-5plus4",
+      "label": "5 + 4",
+      "learningGoal": "פתרון התרגיל 5 + 4"
+    },
+    {
+      "id": 25,
+      "center": {
+        "x": 0.458125,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.458125,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-6plus3",
+      "label": "6 + 3",
+      "learningGoal": "פתרון התרגיל 6 + 3"
+    },
+    {
+      "id": 26,
+      "center": {
+        "x": 0.54375,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.54375,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-7plus3",
+      "label": "7 + 3",
+      "learningGoal": "פתרון התרגיל 7 + 3"
+    },
+    {
+      "id": 27,
+      "center": {
+        "x": 0.629375,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.629375,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-5plus5",
+      "label": "5 + 5",
+      "learningGoal": "פתרון התרגיל 5 + 5"
+    },
+    {
+      "id": 28,
+      "center": {
+        "x": 0.715,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.715,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-8plus2",
+      "label": "8 + 2",
+      "learningGoal": "פתרון התרגיל 8 + 2"
+    },
+    {
+      "id": 29,
+      "center": {
+        "x": 0.800625,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.800625,
+        "y": 0.794444
+      },
+      "type": "question",
+      "questionGroup": "forest-numbers:exercise-9plus1",
+      "label": "9 + 1",
+      "learningGoal": "פתרון התרגיל 9 + 1"
+    },
+    {
+      "id": 30,
+      "center": {
+        "x": 0.88625,
+        "y": 0.794444
+      },
+      "anchor": {
+        "x": 0.88625,
+        "y": 0.794444
+      },
+      "type": "finish",
+      "questionGroup": "forest-numbers:exercise-4plus6",
+      "label": "4 + 6",
+      "learningGoal": "פתרון התרגיל 4 + 6"
+    }
+  ],
+  "transitions": []
+}
